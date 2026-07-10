@@ -1,0 +1,106 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* LIGHT MODE (RGB Triplets) */
+    --bg-background: 248 250 252;
+    --bg-card: 255 255 255;
+    --color-white: 15 23 42; 
+    --color-black: 255 255 255;
+    --zinc-950: 255 255 255;
+    --zinc-900: 241 245 249;
+    --zinc-800: 226 232 240;
+    --zinc-700: 203 213 225;
+    --zinc-600: 148 163 184;
+    --zinc-500: 100 116 139;
+    --zinc-400: 71 85 105;
+    --zinc-300: 51 65 85;
+    --zinc-200: 30 41 59;
+    --zinc-100: 15 23 42;
+    --glass-start: rgba(255, 255, 255, 0.8);
+    --glass-end: rgba(255, 255, 255, 0.4);
+  }
+
+  :root.dark {
+    /* DARK MODE (RGB Triplets) */
+    --bg-background: 10 10 12;
+    --bg-card: 22 22 26;
+    --color-white: 255 255 255;
+    --color-black: 0 0 0;
+    --zinc-950: 9 9 11;
+    --zinc-900: 24 24 27;
+    --zinc-800: 39 39 42;
+    --zinc-700: 63 63 70;
+    --zinc-600: 82 82 91;
+    --zinc-500: 113 113 122;
+    --zinc-400: 161 161 170;
+    --zinc-300: 212 212 216;
+    --zinc-200: 228 228 231;
+    --zinc-100: 244 244 245;
+    --glass-start: rgba(255, 255, 255, 0.05);
+    --glass-end: rgba(255, 255, 255, 0.01);
+  }
+
+  body {
+    @apply bg-background text-zinc-200 antialiased transition-colors duration-500;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  /* Custom Scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-zinc-950 transition-colors duration-500;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-zinc-800 rounded-full hover:bg-zinc-700 transition-colors duration-500;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-zinc-900/50 backdrop-blur-md border border-zinc-800/50 rounded-2xl shadow-xl;
+  }
+  
+  .premium-gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary-light via-secondary to-accent-light;
+  }
+
+  .nav-link {
+    @apply flex items-center space-x-3 px-4 py-3 rounded-xl transition-all duration-300 hover:bg-zinc-800/50 text-zinc-400 hover:text-white;
+  }
+
+  .nav-link.active {
+    @apply bg-primary/10 text-primary-light border-r-2 border-primary;
+  }
+
+  .stat-card {
+    @apply glass-card p-6 flex flex-col space-y-2 transition-transform duration-300 hover:-translate-y-1;
+  }
+
+  .btn-primary {
+    @apply px-6 py-3 bg-primary hover:bg-primary-dark text-white rounded-xl font-semibold transition-all shadow-lg hover:shadow-primary/20 active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 bg-zinc-800 hover:bg-zinc-700 text-white rounded-xl font-semibold transition-all active:scale-95 border border-zinc-700;
+  }
+
+  .input-field {
+    @apply w-full bg-zinc-900 border border-zinc-800 rounded-xl px-4 py-3 focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary transition-all text-white placeholder:text-zinc-600;
+  }
+}
+
+/* Animations */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}

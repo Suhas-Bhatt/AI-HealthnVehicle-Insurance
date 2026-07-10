@@ -1,0 +1,24 @@
+# Common gitignore for AI insurance fraud detection project
+# Node.js dependencies
+node_modules/
+# Environment variables
+.env
+# Logs
+*.log
+# OS generated files
+.DS_Store
+Thumbs.db
+# IDE / editor folders
+.vscode/
+.idea/
+# Python compiled files (if any)
+__pycache__/
+*.pyc
+# Build artifacts
+dist/
+build/
+# Temporary files
+tmp/
+*.tmp
+# Misc
+coverage/

@@ -1,0 +1,93 @@
+VEHICLE INSURANCE FRAUD SIGNALS
+
+1.  CLAIM AMOUNT VS DAMAGE  (DO IT/POSSIBLE)
+
+-   Low damage but high claim amount → Suspicious
+-   Minor scratch but large repair cost → Fraud risk
+-   Total loss claim but damage not severe → Fraud
+
+2.  POLICE REPORT ISSUES  (IF ATTRIBUTE PRESENT DO IT/POSSIBLE)
+
+-   No police report for major accident → Suspicious
+-   Fake or inconsistent police report details → Fraud
+-   Delay in filing report → Risk signal
+
+3.  CLAIM FREQUENCY (MULTIPLE CLAIMS)  (DO IT/POSSIBLE)
+
+-   Too many claims in short time (>3/year) → High risk
+-   Multiple claims before policy expiry → Suspicious
+-   Claims immediately after policy activation → Fraud pattern
+-   Repeated claims for similar damage → Strong fraud signal
+
+4.  USER HISTORY PATTERNS  (TRY IF POSSIBLE)
+
+-   Previous fraud flags → High risk
+-   Increasing claim amounts over time → Suspicious
+-   Same user in multiple suspicious claims → Fraud risk
+-   Claims across different locations quickly → Impossible scenario
+
+5.  DAMAGE CONSISTENCY CHECK  (TRY IF POSSIBLE)
+
+-   Damage doesn’t match accident → Fraud
+-   Same damage claimed multiple times → Duplicate
+-   Old damage claimed as new → Fraud
+
+6.  DOCUMENTATION ISSUES  (IF ATTRIBUTE PRESENT DO IT/POSSIBLE PUT IT IN FRONTEND PART ONLY TRY)
+
+-   Missing documents → Suspicious
+-   Duplicate invoices → Fraud
+-   Tampered bills → Fraud
+
+7. VEHICLE-RELATED SIGNALS
+
+-   Same vehicle total loss multiple times → Fraud
+-   Old vehicle high claim → Suspicious
+
+8. CLAIM AMOUNT OUTLIERS
+
+-   Much higher than average → Fraud
+-   Sudden spike vs history → Suspicious
+
+9. POLICY MISUSE (DO IT/POSSIBLE)
+
+-   Claim right after purchase → Fraud
+-   Upgrade before claim → Suspicious
+-   Expiry manipulation → Fraud
+
+
+10. DUPLICATE CLAIMS  (DO IT/POSSIBLE)
+
+-   Same claim repeated → Fraud
+-   Same damage across policies → Fraud
+
+11. COMBINED RISK   (DO IT/POSSIBLE)
+
+-   High amount + no report + many claims → HIGH FRAUD
+-   Low damage + high amount + repeats → FRAUD
+-   Clean history + proper docs → LEGIT
+
+
+FINAL IDEA: Fraud detection = Rule-based signals + Historical patterns +
+AI reasoning
+
+
+TRUTH ENGINE
+
+Multiple checks → Individual scores → Combined → Final Truth Score
+
+Score ≥ 75 → APPROVE  
+45–75 → REVIEW  
+< 45 → FRAUD  
+
+
+Truth Engine = individual claim analysis
+
+
+
+Truth Engine → checks claim itself  
+
+
+FINAL DECISION LOGIC
+If Truth Score HIGH  → APPROVE  
+If Truth Score MEDIUM → INVESTIGATE  
+If Truth Score LOW  → FRAUD  

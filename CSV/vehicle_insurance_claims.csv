@@ -1,0 +1,56 @@
+Claim_ID,User_ID,Vehicle_Model,Car_Purchase_Year,Vehicle_Age,Damage_Severity,Previous_Claims_Count,Driver_Risk_Score,Claim_Amount,Fraud_Flags
+CLM-B106D8CF,USR-10010,Tesla Model 3,2021,4,Minor,5,0.94,19558,Suspicious Amount
+CLM-7166730D,USR-10035,Tesla Model 3,2016,9,Severe,2,0.92,17247,Suspicious Amount
+CLM-0F93F401,USR-10048,Honda Civic,2016,9,Minor,4,0.58,69923,Frequent Claimant
+CLM-A6B6D59C,USR-10002,Tesla Model 3,2018,7,Severe,3,0.77,72681,None
+CLM-888E9E7E,USR-10042,Ford F-150,2019,6,Severe,4,0.01,6801,None
+CLM-B11842D2,USR-10020,Honda Civic,2016,9,Moderate,1,0.02,40374,Frequent Claimant
+CLM-9EA7D91C,USR-10037,Honda Civic,2018,7,Moderate,4,0.41,54910,Frequent Claimant
+CLM-3EE5EBE0,USR-10037,Tesla Model 3,2019,6,Moderate,1,0.06,48732,None
+CLM-12C70BA6,USR-10038,Tesla Model 3,2018,7,Moderate,2,0.16,53150,Frequent Claimant
+CLM-BB63E680,USR-10043,Tesla Model 3,2015,10,Moderate,5,0.31,61811,None
+CLM-1DA0FC90,USR-10035,Honda Civic,2020,5,Minor,1,0.56,60029,Frequent Claimant
+CLM-0D710351,USR-10012,Toyota Corolla,2018,7,Minor,3,0.03,25214,Frequent Claimant
+CLM-91C46D5E,USR-10044,Ford F-150,2019,6,Moderate,5,0.64,70556,None
+CLM-0BBA35D5,USR-10003,Honda Civic,2021,4,Minor,3,0.51,28393,Frequent Claimant
+CLM-231236DD,USR-10026,Honda Civic,2019,6,Minor,0,0.34,66148,None
+CLM-0FA435F9,USR-10030,Honda Civic,2016,9,Minor,2,0.31,18630,Frequent Claimant
+CLM-3CEDDF07,USR-10042,Ford F-150,2015,10,Severe,1,0.64,40343,None
+CLM-BD67437A,USR-10035,Tesla Model 3,2015,10,Moderate,4,0.86,49805,Suspicious Amount
+CLM-0E011F3D,USR-10048,Ford F-150,2022,3,Severe,0,0.25,41814,Suspicious Amount
+CLM-5F33B402,USR-10020,Tesla Model 3,2023,2,Moderate,2,0.43,38285,Suspicious Amount
+CLM-A13DD5EA,USR-10030,Toyota Corolla,2023,2,Minor,0,0.53,79929,Suspicious Amount
+CLM-C03DAD6F,USR-10035,Honda Civic,2023,2,Minor,2,0.28,33808,Suspicious Amount
+CLM-44EFA8E5,USR-10011,Tesla Model 3,2018,7,Severe,5,0.61,72430,Suspicious Amount
+CLM-F9AC6470,USR-10033,Tesla Model 3,2015,10,Moderate,2,0.27,53667,None
+CLM-EB6C644B,USR-10029,Honda Civic,2023,2,Minor,0,0.96,39125,Suspicious Amount
+CLM-2110166D,USR-10013,Honda Civic,2019,6,Severe,3,0.44,63003,Suspicious Amount
+CLM-8EB9E0B4,USR-10020,Tesla Model 3,2017,8,Severe,4,0.98,23861,None
+CLM-50E185EC,USR-10035,Honda Civic,2022,3,Moderate,4,0.94,39738,None
+CLM-26E9D3E2,USR-10012,Toyota Corolla,2020,5,Minor,4,0.27,19534,None
+CLM-5A4968F3,USR-10040,Ford F-150,2019,6,Severe,5,0.95,46958,Frequent Claimant
+CLM-8ED0F623,USR-10007,Tesla Model 3,2015,10,Severe,4,0.97,47391,Suspicious Amount
+CLM-479D6F6C,USR-10036,Ford F-150,2023,2,Minor,4,0.44,38368,Frequent Claimant
+CLM-2346A0ED,USR-10017,Tesla Model 3,2019,6,Moderate,2,0.12,77856,Suspicious Amount
+CLM-20220AF8,USR-10047,Tesla Model 3,2018,7,Severe,3,0.63,74663,Suspicious Amount
+CLM-3B47805C,USR-10023,Honda Civic,2016,9,Minor,3,0.52,43014,Suspicious Amount
+CLM-7612FD20,USR-10019,Tesla Model 3,2022,3,Severe,2,0.29,28936,None
+CLM-81213D56,USR-10022,Honda Civic,2016,9,Minor,1,0.58,71135,Suspicious Amount
+CLM-08B23BDA,USR-10029,Tesla Model 3,2022,3,Moderate,2,0.8,77051,Frequent Claimant
+CLM-037F1A65,USR-10025,Toyota Corolla,2017,8,Severe,5,0.99,50370,Suspicious Amount
+CLM-923A235B,USR-10031,Ford F-150,2024,1,Severe,2,0.91,44456,None
+CLM-3B27B66C,USR-10023,Tesla Model 3,2021,4,Severe,4,0.57,60689,Frequent Claimant
+CLM-5F8F06E0,USR-10035,Toyota Corolla,2020,5,Minor,0,0.67,77909,Suspicious Amount
+CLM-2B0509BA,USR-10017,Ford F-150,2023,2,Moderate,2,0.01,56398,Suspicious Amount
+CLM-650AF58E,USR-10038,Ford F-150,2023,2,Minor,1,0.62,70384,Frequent Claimant
+CLM-2C04D46B,USR-10025,Tesla Model 3,2021,4,Severe,5,0.42,47617,Suspicious Amount
+CLM-4356E7CA,USR-10042,Toyota Corolla,2020,5,Moderate,2,0.26,18500,Frequent Claimant
+CLM-86384A31,USR-10036,Tesla Model 3,2015,10,Severe,3,0.81,18808,None
+CLM-1B90FC13,USR-10011,Honda Civic,2020,5,Severe,4,0.8,14045,None
+CLM-B246984D,USR-10008,Tesla Model 3,2017,8,Moderate,0,0.01,37228,Frequent Claimant
+CLM-6448E172,USR-10045,Toyota Corolla,2015,10,Severe,2,0.39,47487,Suspicious Amount
+CLM-E49FD43A,USR-10006,Tesla Model 3,2020,5,Severe,5,0.3,79974,Frequent Claimant
+CLM-11A19812,USR-10025,Honda Civic,2016,9,Severe,1,0.84,16393,Frequent Claimant
+CLM-E86179A9,USR-10024,Tesla Model 3,2024,1,Severe,4,0.11,17796,Suspicious Amount
+CLM-6296F284,USR-10028,Tesla Model 3,2020,5,Minor,1,0.03,21233,None
+CLM-CB23E031,USR-10038,Tesla Model 3,2018,7,Severe,4,0.66,48855,Suspicious Amount

@@ -1,0 +1,101 @@
+Claim_ID,User_ID,Insurance_Type,Claim_Amount,Status,Fraud_Flags
+CLM-B106D8CF,USR-10010,Vehicle,19558,Flagged,Suspicious Amount
+CLM-955FFE61,USR-10021,Health,27894,Flagged,Suspicious Amount
+CLM-375CE5B9,USR-10001,Health,60171,Approved,None
+CLM-B46B1429,USR-10038,Health,79361,Approved,None
+CLM-7166730D,USR-10035,Vehicle,17247,Flagged,Suspicious Amount
+CLM-67A776CB,USR-10005,Health,18426,Approved,None
+CLM-D105E64A,USR-10046,Health,68977,Flagged,Suspicious Amount
+CLM-0F93F401,USR-10048,Vehicle,69923,Flagged,Frequent Claimant
+CLM-54334AEB,USR-10029,Health,70606,Approved,None
+CLM-1062FF6E,USR-10016,Health,32839,Approved,None
+CLM-1594FC94,USR-10020,Health,25941,Flagged,Suspicious Amount
+CLM-A6B6D59C,USR-10002,Vehicle,72681,Approved,None
+CLM-9FEC22C5,USR-10049,Health,67051,Approved,None
+CLM-888E9E7E,USR-10042,Vehicle,6801,Approved,None
+CLM-B11842D2,USR-10020,Vehicle,40374,Flagged,Frequent Claimant
+CLM-9EA7D91C,USR-10037,Vehicle,54910,Flagged,Frequent Claimant
+CLM-3EE5EBE0,USR-10037,Vehicle,48732,Approved,None
+CLM-12C70BA6,USR-10038,Vehicle,53150,Flagged,Frequent Claimant
+CLM-57172A1D,USR-10047,Health,29267,Approved,None
+CLM-BB63E680,USR-10043,Vehicle,61811,Approved,None
+CLM-C88AA26D,USR-10010,Health,19748,Flagged,Frequent Claimant
+CLM-93EE2BDA,USR-10044,Health,38104,Flagged,Suspicious Amount
+CLM-1DA0FC90,USR-10035,Vehicle,60029,Flagged,Frequent Claimant
+CLM-2E99186F,USR-10000,Health,25162,Approved,None
+CLM-0D710351,USR-10012,Vehicle,25214,Flagged,Frequent Claimant
+CLM-91C46D5E,USR-10044,Vehicle,70556,Approved,None
+CLM-8047FE2A,USR-10031,Health,9070,Flagged,Suspicious Amount
+CLM-0BBA35D5,USR-10003,Vehicle,28393,Flagged,Frequent Claimant
+CLM-3FD47DF8,USR-10013,Health,71286,Approved,None
+CLM-231236DD,USR-10026,Vehicle,66148,Approved,None
+CLM-8353CD31,USR-10004,Health,15891,Flagged,Suspicious Amount
+CLM-0FA435F9,USR-10030,Vehicle,18630,Flagged,Frequent Claimant
+CLM-0C683DB5,USR-10025,Health,23979,Flagged,Frequent Claimant
+CLM-9B27B20B,USR-10014,Health,69340,Approved,None
+CLM-3CEDDF07,USR-10042,Vehicle,40343,Approved,None
+CLM-66C25D3C,USR-10013,Health,46289,Flagged,Suspicious Amount
+CLM-9F9CF6D3,USR-10007,Health,50749,Flagged,Suspicious Amount
+CLM-BD67437A,USR-10035,Vehicle,49805,Flagged,Suspicious Amount
+CLM-0E011F3D,USR-10048,Vehicle,41814,Flagged,Suspicious Amount
+CLM-5F33B402,USR-10020,Vehicle,38285,Flagged,Suspicious Amount
+CLM-1F4A199D,USR-10014,Health,34733,Flagged,Frequent Claimant
+CLM-A13DD5EA,USR-10030,Vehicle,79929,Flagged,Suspicious Amount
+CLM-C03DAD6F,USR-10035,Vehicle,33808,Flagged,Suspicious Amount
+CLM-44EFA8E5,USR-10011,Vehicle,72430,Flagged,Suspicious Amount
+CLM-AECDB18A,USR-10004,Health,19800,Flagged,Frequent Claimant
+CLM-F9AC6470,USR-10033,Vehicle,53667,Approved,None
+CLM-EB6C644B,USR-10029,Vehicle,39125,Flagged,Suspicious Amount
+CLM-2110166D,USR-10013,Vehicle,63003,Flagged,Suspicious Amount
+CLM-8EB9E0B4,USR-10020,Vehicle,23861,Approved,None
+CLM-50E185EC,USR-10035,Vehicle,39738,Approved,None
+CLM-B2AA51FE,USR-10010,Health,44461,Flagged,Frequent Claimant
+CLM-A761CF22,USR-10041,Health,78109,Flagged,Frequent Claimant
+CLM-26E9D3E2,USR-10012,Vehicle,19534,Approved,None
+CLM-5A4968F3,USR-10040,Vehicle,46958,Flagged,Frequent Claimant
+CLM-8ED0F623,USR-10007,Vehicle,47391,Flagged,Suspicious Amount
+CLM-479D6F6C,USR-10036,Vehicle,38368,Flagged,Frequent Claimant
+CLM-2346A0ED,USR-10017,Vehicle,77856,Flagged,Suspicious Amount
+CLM-89CE37E0,USR-10010,Health,60358,Approved,None
+CLM-20220AF8,USR-10047,Vehicle,74663,Flagged,Suspicious Amount
+CLM-3B47805C,USR-10023,Vehicle,43014,Flagged,Suspicious Amount
+CLM-7612FD20,USR-10019,Vehicle,28936,Approved,None
+CLM-7D254CB9,USR-10008,Health,61974,Flagged,Suspicious Amount
+CLM-81213D56,USR-10022,Vehicle,71135,Flagged,Suspicious Amount
+CLM-08B23BDA,USR-10029,Vehicle,77051,Flagged,Frequent Claimant
+CLM-037F1A65,USR-10025,Vehicle,50370,Flagged,Suspicious Amount
+CLM-923A235B,USR-10031,Vehicle,44456,Approved,None
+CLM-3B27B66C,USR-10023,Vehicle,60689,Flagged,Frequent Claimant
+CLM-AA5045EA,USR-10024,Health,12897,Approved,None
+CLM-7120F831,USR-10037,Health,24362,Flagged,Suspicious Amount
+CLM-5F8F06E0,USR-10035,Vehicle,77909,Flagged,Suspicious Amount
+CLM-2B0509BA,USR-10017,Vehicle,56398,Flagged,Suspicious Amount
+CLM-650AF58E,USR-10038,Vehicle,70384,Flagged,Frequent Claimant
+CLM-2C04D46B,USR-10025,Vehicle,47617,Flagged,Suspicious Amount
+CLM-21D410E4,USR-10049,Health,6888,Flagged,Frequent Claimant
+CLM-0F4E63BA,USR-10047,Health,61260,Approved,None
+CLM-4356E7CA,USR-10042,Vehicle,18500,Flagged,Frequent Claimant
+CLM-415CC1E4,USR-10031,Health,36242,Flagged,Suspicious Amount
+CLM-6C31E586,USR-10049,Health,5626,Approved,None
+CLM-86384A31,USR-10036,Vehicle,18808,Approved,None
+CLM-D5ADDD40,USR-10045,Health,17821,Flagged,Frequent Claimant
+CLM-1B90FC13,USR-10011,Vehicle,14045,Approved,None
+CLM-6FDB0D2E,USR-10025,Health,43657,Flagged,Suspicious Amount
+CLM-B246984D,USR-10008,Vehicle,37228,Flagged,Frequent Claimant
+CLM-6448E172,USR-10045,Vehicle,47487,Flagged,Suspicious Amount
+CLM-486224C9,USR-10029,Health,45116,Flagged,Suspicious Amount
+CLM-9BF1D20A,USR-10001,Health,50088,Approved,None
+CLM-9837FA7F,USR-10004,Health,50223,Approved,None
+CLM-E49FD43A,USR-10006,Vehicle,79974,Flagged,Frequent Claimant
+CLM-B8F05D6D,USR-10013,Health,40726,Flagged,Suspicious Amount
+CLM-11A19812,USR-10025,Vehicle,16393,Flagged,Frequent Claimant
+CLM-E86179A9,USR-10024,Vehicle,17796,Flagged,Suspicious Amount
+CLM-F9225306,USR-10038,Health,35608,Flagged,Suspicious Amount
+CLM-E3138C4E,USR-10019,Health,77409,Flagged,Suspicious Amount
+CLM-0136F766,USR-10021,Health,62648,Approved,None
+CLM-C35749CA,USR-10028,Health,71358,Approved,None
+CLM-AE94F9AF,USR-10028,Health,14376,Flagged,Suspicious Amount
+CLM-008883DB,USR-10017,Health,42138,Flagged,Frequent Claimant
+CLM-6296F284,USR-10028,Vehicle,21233,Approved,None
+CLM-CB23E031,USR-10038,Vehicle,48855,Flagged,Suspicious Amount
+CLM-D33329C5,USR-10016,Health,15840,Flagged,Suspicious Amount

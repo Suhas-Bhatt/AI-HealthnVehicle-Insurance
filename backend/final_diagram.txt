@@ -1,0 +1,53 @@
+React Frontend (Vite)
+        |
+        | HTTP POST /submit-claim
+        ▼
+[1] Amazon API Gateway
+        |
+        ▼
+[2] AWS Lambda — ClaimIngestion
+        |
+        | (stores image)
+        ▼
+[3] Amazon S3 — Document Storage (Optional)
+        |
+        ▼
+[4] AWS Lambda — ProcessClaim (CORE ENGINE)
+        |
+        ├───────────────────────────────────────────────┐
+        │                                               │
+        ▼                                               ▼
+[5a] Amazon Textract (SYNC OCR)             [5b] Amazon Bedrock Agent
+     (detect_document_text)                      (Claude 3 Sonnet/Haiku)
+        │                                               │
+        │ Extracted Text                                │
+        └──────────────────────┬────────────────────────┘
+                               ▼
+                     Fraud Reasoning (Agent)
+                     - Claim Amount vs Damage
+                     - Police Report Check
+                     - Claim Frequency
+                     - Policy Misuse
+                     - Damage Consistency
+                     - User Patterns
+                     - Outlier Detection
+                     - Duplicate Claims
+                     - Combined Risk
+                               |
+                               ▼
+                    Truth Score (0-100)
+                    ≥75 → APPROVE
+                    45–75 → REVIEW
+                    <45 → FRAUD
+                               |
+                               ▼
+[6] Amazon DynamoDB — FraudResults Table
+        |
+        ▼
+[7] API Gateway Response
+        |
+        ▼
+React Frontend (TruthAnalysis.jsx)
+   - Displays Truth Score
+   - Decision (Approve/Review/Fraud)
+   - Reasons (Fraud Signals)

@@ -1,0 +1,46 @@
+Claim_ID,User_ID,Hospital,Disease,Disease_Type,Treatment_Duration_Days,Expected_Cost,Claim_Amount,Fraud_Flags
+CLM-955FFE61,USR-10021,Fortis,Fracture,Injury,12,9095,27894,Suspicious Amount
+CLM-375CE5B9,USR-10001,City Care,Appendicitis,Acute,8,10675,60171,None
+CLM-B46B1429,USR-10038,City Care,Appendicitis,Acute,8,26079,79361,None
+CLM-67A776CB,USR-10005,Fortis,Migraine,Moderate,3,12935,18426,None
+CLM-D105E64A,USR-10046,Fortis,Fracture,Injury,12,19418,68977,Suspicious Amount
+CLM-54334AEB,USR-10029,Metro Hospital,Migraine,Moderate,5,7651,70606,None
+CLM-1062FF6E,USR-10016,Apollo,Heart Disease,Chronic,7,11359,32839,None
+CLM-1594FC94,USR-10020,Fortis,Diabetes,Chronic,13,15195,25941,Suspicious Amount
+CLM-9FEC22C5,USR-10049,Fortis,Migraine,Moderate,3,8621,67051,None
+CLM-57172A1D,USR-10047,City Care,Diabetes,Chronic,2,11717,29267,None
+CLM-C88AA26D,USR-10010,City Care,Migraine,Moderate,13,5465,19748,Frequent Claimant
+CLM-93EE2BDA,USR-10044,City Care,Fracture,Injury,1,9621,38104,Suspicious Amount
+CLM-2E99186F,USR-10000,Apollo,Migraine,Moderate,5,6274,25162,None
+CLM-8047FE2A,USR-10031,Metro Hospital,Appendicitis,Acute,14,5885,9070,Suspicious Amount
+CLM-3FD47DF8,USR-10013,Metro Hospital,Appendicitis,Acute,12,10263,71286,None
+CLM-8353CD31,USR-10004,Metro Hospital,Heart Disease,Chronic,10,16413,15891,Suspicious Amount
+CLM-0C683DB5,USR-10025,Fortis,Diabetes,Chronic,5,27805,23979,Frequent Claimant
+CLM-9B27B20B,USR-10014,Apollo,Appendicitis,Acute,8,17789,69340,None
+CLM-66C25D3C,USR-10013,Fortis,Diabetes,Chronic,4,19148,46289,Suspicious Amount
+CLM-9F9CF6D3,USR-10007,Metro Hospital,Heart Disease,Chronic,11,8410,50749,Suspicious Amount
+CLM-1F4A199D,USR-10014,Fortis,Migraine,Moderate,1,23216,34733,Frequent Claimant
+CLM-AECDB18A,USR-10004,City Care,Migraine,Moderate,12,27348,19800,Frequent Claimant
+CLM-B2AA51FE,USR-10010,Metro Hospital,Migraine,Moderate,13,28297,44461,Frequent Claimant
+CLM-A761CF22,USR-10041,Metro Hospital,Fracture,Injury,10,24921,78109,Frequent Claimant
+CLM-89CE37E0,USR-10010,Fortis,Migraine,Moderate,14,15471,60358,None
+CLM-7D254CB9,USR-10008,Fortis,Fracture,Injury,8,23223,61974,Suspicious Amount
+CLM-AA5045EA,USR-10024,City Care,Appendicitis,Acute,4,21613,12897,None
+CLM-7120F831,USR-10037,Apollo,Migraine,Moderate,8,16214,24362,Suspicious Amount
+CLM-21D410E4,USR-10049,Fortis,Appendicitis,Acute,15,21148,6888,Frequent Claimant
+CLM-0F4E63BA,USR-10047,Metro Hospital,Appendicitis,Acute,8,18741,61260,None
+CLM-415CC1E4,USR-10031,Fortis,Appendicitis,Acute,9,10305,36242,Suspicious Amount
+CLM-6C31E586,USR-10049,Fortis,Appendicitis,Acute,8,15239,5626,None
+CLM-D5ADDD40,USR-10045,Metro Hospital,Diabetes,Chronic,10,12636,17821,Frequent Claimant
+CLM-6FDB0D2E,USR-10025,Fortis,Heart Disease,Chronic,2,14779,43657,Suspicious Amount
+CLM-486224C9,USR-10029,Fortis,Heart Disease,Chronic,2,12560,45116,Suspicious Amount
+CLM-9BF1D20A,USR-10001,Fortis,Diabetes,Chronic,1,10329,50088,None
+CLM-9837FA7F,USR-10004,Apollo,Appendicitis,Acute,1,14931,50223,None
+CLM-B8F05D6D,USR-10013,City Care,Heart Disease,Chronic,7,15225,40726,Suspicious Amount
+CLM-F9225306,USR-10038,Apollo,Fracture,Injury,10,7697,35608,Suspicious Amount
+CLM-E3138C4E,USR-10019,Apollo,Diabetes,Chronic,7,26629,77409,Suspicious Amount
+CLM-0136F766,USR-10021,Fortis,Fracture,Injury,10,7467,62648,None
+CLM-C35749CA,USR-10028,Metro Hospital,Heart Disease,Chronic,3,15956,71358,None
+CLM-AE94F9AF,USR-10028,Apollo,Heart Disease,Chronic,13,26464,14376,Suspicious Amount
+CLM-008883DB,USR-10017,Metro Hospital,Fracture,Injury,10,16671,42138,Frequent Claimant
+CLM-D33329C5,USR-10016,Fortis,Heart Disease,Chronic,8,29249,15840,Suspicious Amount
