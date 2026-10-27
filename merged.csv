@@ -1,0 +1,251 @@
+User_ID,Claim_ID,Insurance_Type,Name,Email,Age,Gender,Policy_Tier,Claim_Amount,Status,Fraud_Flags,Vehicle_Model,Car_Purchase_Year,Vehicle_Age,Policy_Start_Date,Incident_Date,Police_Report,Damage_Severity,Previous_Claims_Count,Driver_Risk_Score,Hospital,Disease,Disease_Type,Treatment_Duration_Days,Expected_Cost,_source
+USR-10000,,,Rohan Gupta,rohangupta@gmail.com,21,Male,Standard,,,,,,,,,,,,,,,,,,users_master
+USR-10001,,,Ananya Naidu,ananyanaidu@gmail.com,26,Female,Standard,,,,,,,,,,,,,,,,,,users_master
+USR-10002,,,Rahul Singh,rahulsingh@gmail.com,55,Male,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10003,,,Reyansh Iyer,reyanshiyer@gmail.com,25,Male,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10004,,,Karthik Patel,karthikpatel@gmail.com,55,Male,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10005,,,Priya Singh,priyasingh@gmail.com,68,Female,Standard,,,,,,,,,,,,,,,,,,users_master
+USR-10006,,,Pooja Verma,poojaverma@gmail.com,35,Female,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10007,,,Diya Chatterjee,diyachatterjee@gmail.com,29,Female,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10008,,,Aditya Chatterjee,adityachatterjee@gmail.com,49,Male,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10009,,,Sneha Chatterjee,snehachatterjee@gmail.com,69,Female,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10010,,,Rahul Singh,rahulsingh@gmail.com,57,Male,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10011,,,Ananya Mehta,ananyamehta@gmail.com,68,Female,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10012,,,Diya Kulkarni,diyakulkarni@gmail.com,23,Female,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10013,,,Aditya Reddy,adityareddy@gmail.com,61,Male,Standard,,,,,,,,,,,,,,,,,,users_master
+USR-10014,,,Diya Verma,diyaverma@gmail.com,64,Female,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10015,,,Ishita Chatterjee,ishitachatterjee@gmail.com,31,Female,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10016,,,Aditya Naidu,adityanaidu@gmail.com,35,Male,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10017,,,Siddharth Naidu,siddharthnaidu@gmail.com,70,Male,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10018,,,Anjali Singh,anjalisingh@gmail.com,22,Female,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10019,,,Vivaan Shetty,vivaanshetty@gmail.com,58,Male,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10020,,,Rahul Patel,rahulpatel@gmail.com,58,Male,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10021,,,Vikram Das,vikramdas@gmail.com,64,Male,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10022,,,Siddharth Sharma,siddharthsharma@gmail.com,20,Male,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10023,,,Priya Gupta,priyagupta@gmail.com,35,Female,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10024,,,Sneha Shetty,snehashetty@gmail.com,21,Female,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10025,,,Ishita Verma,ishitaverma@gmail.com,20,Female,Standard,,,,,,,,,,,,,,,,,,users_master
+USR-10026,,,Siddharth Gupta,siddharthgupta@gmail.com,52,Male,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10027,,,Diya Kulkarni,diyakulkarni@gmail.com,23,Female,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10028,,,Meera Gupta,meeragupta@gmail.com,56,Female,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10029,,,Ananya Nair,ananyanair@gmail.com,19,Female,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10030,,,Pooja Reddy,poojareddy@gmail.com,61,Female,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10031,,,Siddharth Naidu,siddharthnaidu@gmail.com,32,Male,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10032,,,Vivaan Shetty,vivaanshetty@gmail.com,38,Male,Standard,,,,,,,,,,,,,,,,,,users_master
+USR-10033,,,Aditya Gupta,adityagupta@gmail.com,62,Male,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10034,,,Reyansh Singh,reyanshsingh@gmail.com,50,Male,Standard,,,,,,,,,,,,,,,,,,users_master
+USR-10035,,,Rahul Iyer,rahuliyer@gmail.com,37,Male,Standard,,,,,,,,,,,,,,,,,,users_master
+USR-10036,,,Rahul Patel,rahulpatel@gmail.com,65,Male,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10037,,,Aditya Sharma,adityasharma@gmail.com,68,Male,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10038,,,Vikram Sharma,vikramsharma@gmail.com,54,Male,Standard,,,,,,,,,,,,,,,,,,users_master
+USR-10039,,,Arjun Patel,arjunpatel@gmail.com,37,Male,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10040,,,Diya Shetty,diyashetty@gmail.com,56,Female,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10041,,,Ananya Iyer,ananyaiyer@gmail.com,21,Female,Standard,,,,,,,,,,,,,,,,,,users_master
+USR-10042,,,Diya Singh,diyasingh@gmail.com,57,Female,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10043,,,Diya Naidu,diyanaidu@gmail.com,22,Female,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10044,,,Karthik Verma,karthikverma@gmail.com,34,Male,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10045,,,Vivaan Mehta,vivaanmehta@gmail.com,58,Male,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10046,,,Siddharth Reddy,siddharthreddy@gmail.com,37,Male,Standard,,,,,,,,,,,,,,,,,,users_master
+USR-10047,,,Ananya Patel,ananyapatel@gmail.com,62,Female,Standard,,,,,,,,,,,,,,,,,,users_master
+USR-10048,,,Kavya Gupta,kavyagupta@gmail.com,56,Female,Basic,,,,,,,,,,,,,,,,,,users_master
+USR-10049,,,Vivaan Sharma,vivaansharma@gmail.com,34,Male,Premium,,,,,,,,,,,,,,,,,,users_master
+USR-10010,CLM-B106D8CF,Vehicle,,,,,,19558,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10021,CLM-955FFE61,Health,,,,,,27894,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10001,CLM-375CE5B9,Health,,,,,,60171,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10038,CLM-B46B1429,Health,,,,,,79361,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10035,CLM-7166730D,Vehicle,,,,,,17247,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10005,CLM-67A776CB,Health,,,,,,18426,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10046,CLM-D105E64A,Health,,,,,,68977,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10048,CLM-0F93F401,Vehicle,,,,,,69923,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10029,CLM-54334AEB,Health,,,,,,70606,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10016,CLM-1062FF6E,Health,,,,,,32839,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10020,CLM-1594FC94,Health,,,,,,25941,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10002,CLM-A6B6D59C,Vehicle,,,,,,72681,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10049,CLM-9FEC22C5,Health,,,,,,67051,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10042,CLM-888E9E7E,Vehicle,,,,,,6801,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10020,CLM-B11842D2,Vehicle,,,,,,40374,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10037,CLM-9EA7D91C,Vehicle,,,,,,54910,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10037,CLM-3EE5EBE0,Vehicle,,,,,,48732,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10038,CLM-12C70BA6,Vehicle,,,,,,53150,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10047,CLM-57172A1D,Health,,,,,,29267,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10043,CLM-BB63E680,Vehicle,,,,,,61811,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10010,CLM-C88AA26D,Health,,,,,,19748,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10044,CLM-93EE2BDA,Health,,,,,,38104,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10035,CLM-1DA0FC90,Vehicle,,,,,,60029,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10000,CLM-2E99186F,Health,,,,,,25162,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10012,CLM-0D710351,Vehicle,,,,,,25214,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10044,CLM-91C46D5E,Vehicle,,,,,,70556,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10031,CLM-8047FE2A,Health,,,,,,9070,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10003,CLM-0BBA35D5,Vehicle,,,,,,28393,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10013,CLM-3FD47DF8,Health,,,,,,71286,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10026,CLM-231236DD,Vehicle,,,,,,66148,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10004,CLM-8353CD31,Health,,,,,,15891,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10030,CLM-0FA435F9,Vehicle,,,,,,18630,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10025,CLM-0C683DB5,Health,,,,,,23979,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10014,CLM-9B27B20B,Health,,,,,,69340,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10042,CLM-3CEDDF07,Vehicle,,,,,,40343,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10013,CLM-66C25D3C,Health,,,,,,46289,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10007,CLM-9F9CF6D3,Health,,,,,,50749,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10035,CLM-BD67437A,Vehicle,,,,,,49805,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10048,CLM-0E011F3D,Vehicle,,,,,,41814,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10020,CLM-5F33B402,Vehicle,,,,,,38285,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10014,CLM-1F4A199D,Health,,,,,,34733,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10030,CLM-A13DD5EA,Vehicle,,,,,,79929,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10035,CLM-C03DAD6F,Vehicle,,,,,,33808,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10011,CLM-44EFA8E5,Vehicle,,,,,,72430,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10004,CLM-AECDB18A,Health,,,,,,19800,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10033,CLM-F9AC6470,Vehicle,,,,,,53667,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10029,CLM-EB6C644B,Vehicle,,,,,,39125,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10013,CLM-2110166D,Vehicle,,,,,,63003,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10020,CLM-8EB9E0B4,Vehicle,,,,,,23861,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10035,CLM-50E185EC,Vehicle,,,,,,39738,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10010,CLM-B2AA51FE,Health,,,,,,44461,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10041,CLM-A761CF22,Health,,,,,,78109,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10012,CLM-26E9D3E2,Vehicle,,,,,,19534,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10040,CLM-5A4968F3,Vehicle,,,,,,46958,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10007,CLM-8ED0F623,Vehicle,,,,,,47391,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10036,CLM-479D6F6C,Vehicle,,,,,,38368,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10017,CLM-2346A0ED,Vehicle,,,,,,77856,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10010,CLM-89CE37E0,Health,,,,,,60358,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10047,CLM-20220AF8,Vehicle,,,,,,74663,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10023,CLM-3B47805C,Vehicle,,,,,,43014,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10019,CLM-7612FD20,Vehicle,,,,,,28936,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10008,CLM-7D254CB9,Health,,,,,,61974,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10022,CLM-81213D56,Vehicle,,,,,,71135,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10029,CLM-08B23BDA,Vehicle,,,,,,77051,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10025,CLM-037F1A65,Vehicle,,,,,,50370,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10031,CLM-923A235B,Vehicle,,,,,,44456,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10023,CLM-3B27B66C,Vehicle,,,,,,60689,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10024,CLM-AA5045EA,Health,,,,,,12897,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10037,CLM-7120F831,Health,,,,,,24362,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10035,CLM-5F8F06E0,Vehicle,,,,,,77909,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10017,CLM-2B0509BA,Vehicle,,,,,,56398,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10038,CLM-650AF58E,Vehicle,,,,,,70384,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10025,CLM-2C04D46B,Vehicle,,,,,,47617,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10049,CLM-21D410E4,Health,,,,,,6888,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10047,CLM-0F4E63BA,Health,,,,,,61260,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10042,CLM-4356E7CA,Vehicle,,,,,,18500,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10031,CLM-415CC1E4,Health,,,,,,36242,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10049,CLM-6C31E586,Health,,,,,,5626,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10036,CLM-86384A31,Vehicle,,,,,,18808,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10045,CLM-D5ADDD40,Health,,,,,,17821,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10011,CLM-1B90FC13,Vehicle,,,,,,14045,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10025,CLM-6FDB0D2E,Health,,,,,,43657,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10008,CLM-B246984D,Vehicle,,,,,,37228,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10045,CLM-6448E172,Vehicle,,,,,,47487,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10029,CLM-486224C9,Health,,,,,,45116,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10001,CLM-9BF1D20A,Health,,,,,,50088,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10004,CLM-9837FA7F,Health,,,,,,50223,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10006,CLM-E49FD43A,Vehicle,,,,,,79974,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10013,CLM-B8F05D6D,Health,,,,,,40726,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10025,CLM-11A19812,Vehicle,,,,,,16393,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10024,CLM-E86179A9,Vehicle,,,,,,17796,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10038,CLM-F9225306,Health,,,,,,35608,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10019,CLM-E3138C4E,Health,,,,,,77409,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10021,CLM-0136F766,Health,,,,,,62648,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10028,CLM-C35749CA,Health,,,,,,71358,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10028,CLM-AE94F9AF,Health,,,,,,14376,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10017,CLM-008883DB,Health,,,,,,42138,Flagged,Frequent Claimant,,,,,,,,,,,,,,,claims_history
+USR-10028,CLM-6296F284,Vehicle,,,,,,21233,Approved,None,,,,,,,,,,,,,,,claims_history
+USR-10038,CLM-CB23E031,Vehicle,,,,,,48855,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10016,CLM-D33329C5,Health,,,,,,15840,Flagged,Suspicious Amount,,,,,,,,,,,,,,,claims_history
+USR-10010,CLM-B106D8CF,,,,,,,19558,,Suspicious Amount,Tesla Model 3,2021,4,2024-06-15,2024-12-10,No,Minor,5,0.94,,,,,,vehicle_insurance_claims
+USR-10035,CLM-7166730D,,,,,,,17247,,Suspicious Amount,Tesla Model 3,2016,9,2024-01-20,2024-08-14,Yes,Severe,2,0.92,,,,,,vehicle_insurance_claims
+USR-10048,CLM-0F93F401,,,,,,,69923,,Frequent Claimant,Honda Civic,2016,9,2023-09-05,2024-03-22,No,Minor,4,0.58,,,,,,vehicle_insurance_claims
+USR-10002,CLM-A6B6D59C,,,,,,,72681,,None,Tesla Model 3,2018,7,2023-11-12,2024-07-30,Yes,Severe,3,0.77,,,,,,vehicle_insurance_claims
+USR-10042,CLM-888E9E7E,,,,,,,6801,,None,Ford F-150,2019,6,2024-02-28,2024-09-05,Yes,Severe,4,0.01,,,,,,vehicle_insurance_claims
+USR-10020,CLM-B11842D2,,,,,,,40374,,Frequent Claimant,Honda Civic,2016,9,2024-03-10,2024-10-18,No,Moderate,1,0.02,,,,,,vehicle_insurance_claims
+USR-10037,CLM-9EA7D91C,,,,,,,54910,,Frequent Claimant,Honda Civic,2018,7,2023-07-14,2024-01-29,Yes,Moderate,4,0.41,,,,,,vehicle_insurance_claims
+USR-10037,CLM-3EE5EBE0,,,,,,,48732,,None,Tesla Model 3,2019,6,2024-04-01,2024-11-07,No,Moderate,1,0.06,,,,,,vehicle_insurance_claims
+USR-10038,CLM-12C70BA6,,,,,,,53150,,Frequent Claimant,Tesla Model 3,2018,7,2023-12-15,2024-06-20,Yes,Moderate,2,0.16,,,,,,vehicle_insurance_claims
+USR-10043,CLM-BB63E680,,,,,,,61811,,None,Tesla Model 3,2015,10,2024-01-05,2024-07-12,No,Moderate,5,0.31,,,,,,vehicle_insurance_claims
+USR-10035,CLM-1DA0FC90,,,,,,,60029,,Frequent Claimant,Honda Civic,2020,5,2024-05-22,2024-11-30,No,Minor,1,0.56,,,,,,vehicle_insurance_claims
+USR-10012,CLM-0D710351,,,,,,,25214,,Frequent Claimant,Toyota Corolla,2018,7,2023-10-08,2024-04-15,No,Minor,3,0.03,,,,,,vehicle_insurance_claims
+USR-10044,CLM-91C46D5E,,,,,,,70556,,None,Ford F-150,2019,6,2024-02-14,2024-09-22,Yes,Moderate,5,0.64,,,,,,vehicle_insurance_claims
+USR-10003,CLM-0BBA35D5,,,,,,,28393,,Frequent Claimant,Honda Civic,2021,4,2024-06-30,2025-01-14,No,Minor,3,0.51,,,,,,vehicle_insurance_claims
+USR-10026,CLM-231236DD,,,,,,,66148,,None,Honda Civic,2019,6,2024-04-18,2024-10-05,No,Minor,0,0.34,,,,,,vehicle_insurance_claims
+USR-10030,CLM-0FA435F9,,,,,,,18630,,Frequent Claimant,Honda Civic,2016,9,2023-08-27,2024-02-11,No,Minor,2,0.31,,,,,,vehicle_insurance_claims
+USR-10042,CLM-3CEDDF07,,,,,,,40343,,None,Ford F-150,2015,10,2024-01-17,2024-08-03,Yes,Severe,1,0.64,,,,,,vehicle_insurance_claims
+USR-10035,CLM-BD67437A,,,,,,,49805,,Suspicious Amount,Tesla Model 3,2015,10,2024-03-25,2024-10-29,Yes,Moderate,4,0.86,,,,,,vehicle_insurance_claims
+USR-10048,CLM-0E011F3D,,,,,,,41814,,Suspicious Amount,Ford F-150,2022,3,2025-01-08,2025-02-01,Yes,Severe,0,0.25,,,,,,vehicle_insurance_claims
+USR-10020,CLM-5F33B402,,,,,,,38285,,Suspicious Amount,Tesla Model 3,2023,2,2024-11-30,2025-01-15,No,Moderate,2,0.43,,,,,,vehicle_insurance_claims
+USR-10030,CLM-A13DD5EA,,,,,,,79929,,Suspicious Amount,Toyota Corolla,2023,2,2024-09-12,2025-03-08,No,Minor,0,0.53,,,,,,vehicle_insurance_claims
+USR-10035,CLM-C03DAD6F,,,,,,,33808,,Suspicious Amount,Honda Civic,2023,2,2025-02-15,2025-03-20,No,Minor,2,0.28,,,,,,vehicle_insurance_claims
+USR-10011,CLM-44EFA8E5,,,,,,,72430,,Suspicious Amount,Tesla Model 3,2018,7,2023-06-10,2024-01-07,Yes,Severe,5,0.61,,,,,,vehicle_insurance_claims
+USR-10033,CLM-F9AC6470,,,,,,,53667,,None,Tesla Model 3,2015,10,2024-02-19,2024-09-14,No,Moderate,2,0.27,,,,,,vehicle_insurance_claims
+USR-10029,CLM-EB6C644B,,,,,,,39125,,Suspicious Amount,Honda Civic,2023,2,2025-01-05,2025-02-10,No,Minor,0,0.96,,,,,,vehicle_insurance_claims
+USR-10013,CLM-2110166D,,,,,,,63003,,Suspicious Amount,Honda Civic,2019,6,2023-09-20,2024-04-08,Yes,Severe,3,0.44,,,,,,vehicle_insurance_claims
+USR-10020,CLM-8EB9E0B4,,,,,,,23861,,None,Tesla Model 3,2017,8,2024-01-30,2024-08-17,Yes,Severe,4,0.98,,,,,,vehicle_insurance_claims
+USR-10035,CLM-50E185EC,,,,,,,39738,,None,Honda Civic,2022,3,2024-05-11,2024-12-02,Yes,Moderate,4,0.94,,,,,,vehicle_insurance_claims
+USR-10012,CLM-26E9D3E2,,,,,,,19534,,None,Toyota Corolla,2020,5,2023-11-28,2024-06-05,No,Minor,4,0.27,,,,,,vehicle_insurance_claims
+USR-10040,CLM-5A4968F3,,,,,,,46958,,Frequent Claimant,Ford F-150,2019,6,2024-03-07,2024-10-14,Yes,Severe,5,0.95,,,,,,vehicle_insurance_claims
+USR-10007,CLM-8ED0F623,,,,,,,47391,,Suspicious Amount,Tesla Model 3,2015,10,2024-02-05,2024-09-28,No,Severe,4,0.97,,,,,,vehicle_insurance_claims
+USR-10036,CLM-479D6F6C,,,,,,,38368,,Frequent Claimant,Ford F-150,2023,2,2024-10-15,2025-04-01,No,Minor,4,0.44,,,,,,vehicle_insurance_claims
+USR-10017,CLM-2346A0ED,,,,,,,77856,,Suspicious Amount,Tesla Model 3,2019,6,2024-04-22,2024-11-18,No,Moderate,2,0.12,,,,,,vehicle_insurance_claims
+USR-10047,CLM-20220AF8,,,,,,,74663,,Suspicious Amount,Tesla Model 3,2018,7,2023-12-01,2024-07-09,Yes,Severe,3,0.63,,,,,,vehicle_insurance_claims
+USR-10023,CLM-3B47805C,,,,,,,43014,,Suspicious Amount,Honda Civic,2016,9,2024-01-14,2024-08-21,No,Minor,3,0.52,,,,,,vehicle_insurance_claims
+USR-10019,CLM-7612FD20,,,,,,,28936,,None,Tesla Model 3,2022,3,2024-05-28,2025-01-06,Yes,Severe,2,0.29,,,,,,vehicle_insurance_claims
+USR-10022,CLM-81213D56,,,,,,,71135,,Suspicious Amount,Honda Civic,2016,9,2024-03-16,2024-10-23,No,Minor,1,0.58,,,,,,vehicle_insurance_claims
+USR-10029,CLM-08B23BDA,,,,,,,77051,,Frequent Claimant,Tesla Model 3,2022,3,2024-06-09,2025-01-25,Yes,Moderate,2,0.8,,,,,,vehicle_insurance_claims
+USR-10025,CLM-037F1A65,,,,,,,50370,,Suspicious Amount,Toyota Corolla,2017,8,2023-10-03,2024-05-19,No,Severe,5,0.99,,,,,,vehicle_insurance_claims
+USR-10031,CLM-923A235B,,,,,,,44456,,None,Ford F-150,2024,1,2025-02-28,2025-03-15,Yes,Severe,2,0.91,,,,,,vehicle_insurance_claims
+USR-10023,CLM-3B27B66C,,,,,,,60689,,Frequent Claimant,Tesla Model 3,2021,4,2024-02-10,2024-09-03,Yes,Severe,4,0.57,,,,,,vehicle_insurance_claims
+USR-10035,CLM-5F8F06E0,,,,,,,77909,,Suspicious Amount,Toyota Corolla,2020,5,2024-07-04,2025-01-17,No,Minor,0,0.67,,,,,,vehicle_insurance_claims
+USR-10017,CLM-2B0509BA,,,,,,,56398,,Suspicious Amount,Ford F-150,2023,2,2025-01-20,2025-02-28,No,Moderate,2,0.01,,,,,,vehicle_insurance_claims
+USR-10038,CLM-650AF58E,,,,,,,70384,,Frequent Claimant,Ford F-150,2023,2,2024-08-11,2025-02-05,No,Minor,1,0.62,,,,,,vehicle_insurance_claims
+USR-10025,CLM-2C04D46B,,,,,,,47617,,Suspicious Amount,Tesla Model 3,2021,4,2023-08-15,2024-03-30,Yes,Severe,5,0.42,,,,,,vehicle_insurance_claims
+USR-10042,CLM-4356E7CA,,,,,,,18500,,Frequent Claimant,Toyota Corolla,2020,5,2024-04-05,2024-11-12,No,Moderate,2,0.26,,,,,,vehicle_insurance_claims
+USR-10036,CLM-86384A31,,,,,,,18808,,None,Tesla Model 3,2015,10,2023-07-22,2024-02-14,Yes,Severe,3,0.81,,,,,,vehicle_insurance_claims
+USR-10011,CLM-1B90FC13,,,,,,,14045,,None,Honda Civic,2020,5,2024-01-25,2024-08-08,Yes,Severe,4,0.8,,,,,,vehicle_insurance_claims
+USR-10008,CLM-B246984D,,,,,,,37228,,Frequent Claimant,Tesla Model 3,2017,8,2024-05-17,2024-12-21,No,Moderate,0,0.01,,,,,,vehicle_insurance_claims
+USR-10045,CLM-6448E172,,,,,,,47487,,Suspicious Amount,Toyota Corolla,2015,10,2024-03-29,2024-10-16,Yes,Severe,2,0.39,,,,,,vehicle_insurance_claims
+USR-10006,CLM-E49FD43A,,,,,,,79974,,Frequent Claimant,Tesla Model 3,2020,5,2023-09-14,2024-04-27,No,Severe,5,0.3,,,,,,vehicle_insurance_claims
+USR-10025,CLM-11A19812,,,,,,,16393,,Frequent Claimant,Honda Civic,2016,9,2024-06-20,2025-01-11,Yes,Severe,1,0.84,,,,,,vehicle_insurance_claims
+USR-10024,CLM-E86179A9,,,,,,,17796,,Suspicious Amount,Tesla Model 3,2024,1,2025-03-10,2025-04-02,Yes,Severe,4,0.11,,,,,,vehicle_insurance_claims
+USR-10028,CLM-6296F284,,,,,,,21233,,None,Tesla Model 3,2020,5,2024-07-31,2025-02-17,No,Minor,1,0.03,,,,,,vehicle_insurance_claims
+USR-10038,CLM-CB23E031,,,,,,,48855,,Suspicious Amount,Tesla Model 3,2018,7,2024-02-23,2024-09-10,Yes,Severe,4,0.66,,,,,,vehicle_insurance_claims
+USR-10021,CLM-955FFE61,,,,,,,27894,,Suspicious Amount,,,,,,,,,,Fortis,Fracture,Injury,12,9095,health_insurance_claims
+USR-10001,CLM-375CE5B9,,,,,,,60171,,None,,,,,,,,,,City Care,Appendicitis,Acute,8,10675,health_insurance_claims
+USR-10038,CLM-B46B1429,,,,,,,79361,,None,,,,,,,,,,City Care,Appendicitis,Acute,8,26079,health_insurance_claims
+USR-10005,CLM-67A776CB,,,,,,,18426,,None,,,,,,,,,,Fortis,Migraine,Moderate,3,12935,health_insurance_claims
+USR-10046,CLM-D105E64A,,,,,,,68977,,Suspicious Amount,,,,,,,,,,Fortis,Fracture,Injury,12,19418,health_insurance_claims
+USR-10029,CLM-54334AEB,,,,,,,70606,,None,,,,,,,,,,Metro Hospital,Migraine,Moderate,5,7651,health_insurance_claims
+USR-10016,CLM-1062FF6E,,,,,,,32839,,None,,,,,,,,,,Apollo,Heart Disease,Chronic,7,11359,health_insurance_claims
+USR-10020,CLM-1594FC94,,,,,,,25941,,Suspicious Amount,,,,,,,,,,Fortis,Diabetes,Chronic,13,15195,health_insurance_claims
+USR-10049,CLM-9FEC22C5,,,,,,,67051,,None,,,,,,,,,,Fortis,Migraine,Moderate,3,8621,health_insurance_claims
+USR-10047,CLM-57172A1D,,,,,,,29267,,None,,,,,,,,,,City Care,Diabetes,Chronic,2,11717,health_insurance_claims
+USR-10010,CLM-C88AA26D,,,,,,,19748,,Frequent Claimant,,,,,,,,,,City Care,Migraine,Moderate,13,5465,health_insurance_claims
+USR-10044,CLM-93EE2BDA,,,,,,,38104,,Suspicious Amount,,,,,,,,,,City Care,Fracture,Injury,1,9621,health_insurance_claims
+USR-10000,CLM-2E99186F,,,,,,,25162,,None,,,,,,,,,,Apollo,Migraine,Moderate,5,6274,health_insurance_claims
+USR-10031,CLM-8047FE2A,,,,,,,9070,,Suspicious Amount,,,,,,,,,,Metro Hospital,Appendicitis,Acute,14,5885,health_insurance_claims
+USR-10013,CLM-3FD47DF8,,,,,,,71286,,None,,,,,,,,,,Metro Hospital,Appendicitis,Acute,12,10263,health_insurance_claims
+USR-10004,CLM-8353CD31,,,,,,,15891,,Suspicious Amount,,,,,,,,,,Metro Hospital,Heart Disease,Chronic,10,16413,health_insurance_claims
+USR-10025,CLM-0C683DB5,,,,,,,23979,,Frequent Claimant,,,,,,,,,,Fortis,Diabetes,Chronic,5,27805,health_insurance_claims
+USR-10014,CLM-9B27B20B,,,,,,,69340,,None,,,,,,,,,,Apollo,Appendicitis,Acute,8,17789,health_insurance_claims
+USR-10013,CLM-66C25D3C,,,,,,,46289,,Suspicious Amount,,,,,,,,,,Fortis,Diabetes,Chronic,4,19148,health_insurance_claims
+USR-10007,CLM-9F9CF6D3,,,,,,,50749,,Suspicious Amount,,,,,,,,,,Metro Hospital,Heart Disease,Chronic,11,8410,health_insurance_claims
+USR-10014,CLM-1F4A199D,,,,,,,34733,,Frequent Claimant,,,,,,,,,,Fortis,Migraine,Moderate,1,23216,health_insurance_claims
+USR-10004,CLM-AECDB18A,,,,,,,19800,,Frequent Claimant,,,,,,,,,,City Care,Migraine,Moderate,12,27348,health_insurance_claims
+USR-10010,CLM-B2AA51FE,,,,,,,44461,,Frequent Claimant,,,,,,,,,,Metro Hospital,Migraine,Moderate,13,28297,health_insurance_claims
+USR-10041,CLM-A761CF22,,,,,,,78109,,Frequent Claimant,,,,,,,,,,Metro Hospital,Fracture,Injury,10,24921,health_insurance_claims
+USR-10010,CLM-89CE37E0,,,,,,,60358,,None,,,,,,,,,,Fortis,Migraine,Moderate,14,15471,health_insurance_claims
+USR-10008,CLM-7D254CB9,,,,,,,61974,,Suspicious Amount,,,,,,,,,,Fortis,Fracture,Injury,8,23223,health_insurance_claims
+USR-10024,CLM-AA5045EA,,,,,,,12897,,None,,,,,,,,,,City Care,Appendicitis,Acute,4,21613,health_insurance_claims
+USR-10037,CLM-7120F831,,,,,,,24362,,Suspicious Amount,,,,,,,,,,Apollo,Migraine,Moderate,8,16214,health_insurance_claims
+USR-10049,CLM-21D410E4,,,,,,,6888,,Frequent Claimant,,,,,,,,,,Fortis,Appendicitis,Acute,15,21148,health_insurance_claims
+USR-10047,CLM-0F4E63BA,,,,,,,61260,,None,,,,,,,,,,Metro Hospital,Appendicitis,Acute,8,18741,health_insurance_claims
+USR-10031,CLM-415CC1E4,,,,,,,36242,,Suspicious Amount,,,,,,,,,,Fortis,Appendicitis,Acute,9,10305,health_insurance_claims
+USR-10049,CLM-6C31E586,,,,,,,5626,,None,,,,,,,,,,Fortis,Appendicitis,Acute,8,15239,health_insurance_claims
+USR-10045,CLM-D5ADDD40,,,,,,,17821,,Frequent Claimant,,,,,,,,,,Metro Hospital,Diabetes,Chronic,10,12636,health_insurance_claims
+USR-10025,CLM-6FDB0D2E,,,,,,,43657,,Suspicious Amount,,,,,,,,,,Fortis,Heart Disease,Chronic,2,14779,health_insurance_claims
+USR-10029,CLM-486224C9,,,,,,,45116,,Suspicious Amount,,,,,,,,,,Fortis,Heart Disease,Chronic,2,12560,health_insurance_claims
+USR-10001,CLM-9BF1D20A,,,,,,,50088,,None,,,,,,,,,,Fortis,Diabetes,Chronic,1,10329,health_insurance_claims
+USR-10004,CLM-9837FA7F,,,,,,,50223,,None,,,,,,,,,,Apollo,Appendicitis,Acute,1,14931,health_insurance_claims
+USR-10013,CLM-B8F05D6D,,,,,,,40726,,Suspicious Amount,,,,,,,,,,City Care,Heart Disease,Chronic,7,15225,health_insurance_claims
+USR-10038,CLM-F9225306,,,,,,,35608,,Suspicious Amount,,,,,,,,,,Apollo,Fracture,Injury,10,7697,health_insurance_claims
+USR-10019,CLM-E3138C4E,,,,,,,77409,,Suspicious Amount,,,,,,,,,,Apollo,Diabetes,Chronic,7,26629,health_insurance_claims
+USR-10021,CLM-0136F766,,,,,,,62648,,None,,,,,,,,,,Fortis,Fracture,Injury,10,7467,health_insurance_claims
+USR-10028,CLM-C35749CA,,,,,,,71358,,None,,,,,,,,,,Metro Hospital,Heart Disease,Chronic,3,15956,health_insurance_claims
+USR-10028,CLM-AE94F9AF,,,,,,,14376,,Suspicious Amount,,,,,,,,,,Apollo,Heart Disease,Chronic,13,26464,health_insurance_claims
+USR-10017,CLM-008883DB,,,,,,,42138,,Frequent Claimant,,,,,,,,,,Metro Hospital,Fracture,Injury,10,16671,health_insurance_claims
+USR-10016,CLM-D33329C5,,,,,,,15840,,Suspicious Amount,,,,,,,,,,Fortis,Heart Disease,Chronic,8,29249,health_insurance_claims

@@ -1,0 +1,214 @@
+VEHICLE INSURANCE FRAUD SIGNALS
+
+1.  CLAIM AMOUNT VS DAMAGE  TRY / % damage future enhanceement
+
+-   Low damage but high claim amount → Suspicious
+-   Minor scratch but large repair cost → Fraud risk
+-   Total loss claim but damage not severe → Fraud
+
+2.  POLICE REPORT ISSUES .
+
+-   No police report for major accident → Suspicious
+-   Fake or inconsistent police report details → Fraud
+-   Delay in filing report → Risk signal
+
+3.  CLAIM FREQUENCY (MULTIPLE CLAIMS) .
+
+-   Too many claims in short time (>3/year) → High risk
+-   Multiple claims before policy expiry → Suspicious
+-   Claims immediately after policy activation → Fraud pattern
+-   Repeated claims for similar damage → Strong fraud signal
+
+4.  USER HISTORY PATTERNS 
+
+-   Previous fraud flags → High risk
+-   Increasing claim amounts over time → Suspicious
+-   Same user in multiple suspicious claims → Fraud risk
+-   Claims across different locations quickly → Impossible scenario
+
+5.  DAMAGE CONSISTENCY CHECK  Not req
+
+-   Damage doesn’t match accident → Fraud
+-   Same damage claimed multiple times → Duplicate
+-   Old damage claimed as new → Fraud
+
+6.  LOCATION-BASED ANOMALIES NOT
+
+-   Accident far from user’s usual area → Suspicious
+-   Claims in different cities quickly → Fraud
+-   High-risk zones → Risk signal
+
+7.  WEATHER VS ACCIDENT LOGIC NOT
+
+-   Clear weather but skidding claim → Suspicious
+-   No rain but hydroplaning → Fraud
+-   Weather mismatch → Red flag
+
+8.  TIME-BASED PATTERNS   Nop
+
+-   Repeated odd-hour accidents → Suspicious
+-   Immediate repeated claims → Fraud
+-   Delay in reporting → Risk
+
+9.  DOCUMENTATION ISSUES 
+
+-   Missing documents → Suspicious
+-   Duplicate invoices → Fraud
+-   Tampered bills → Fraud
+
+10. VEHICLE-RELATED SIGNALS  Not req
+
+-   Same vehicle total loss multiple times → Fraud
+-   Old vehicle high claim → Suspicious
+
+11. CLAIM AMOUNT OUTLIERS  Covered
+
+-   Much higher than average → Fraud
+-   Sudden spike vs history → Suspicious
+
+12. GARAGE / REPAIR FRAUD   HOLD
+
+-   Same garage in many cases → Fraud
+-   Overbilling → Fraud
+-   Fake garages → Fraud
+
+13. MULTI-PARTY FRAUD   NOT
+
+-   Same witnesses repeatedly → Fraud
+-   Same participants → Suspicious
+-   Organized rings → Advanced fraud
+
+14. POLICY MISUSE  NOT
+
+-   Claim right after purchase → Fraud
+-   Upgrade before claim → Suspicious
+-   Expiry manipulation → Fraud
+
+15. BEHAVIORAL SIGNALS   DO
+
+-   Inconsistent statements → Suspicious
+-   Too vague or too detailed → Risk
+-   Contradictions → Fraud
+
+16. DUPLICATE CLAIMS CHECK
+
+-   Same claim repeated → Fraud
+-   Same damage across policies → Fraud
+
+17. COMBINED RISK  
+
+-   High amount + no report + many claims → HIGH FRAUD
+-   Low damage + high amount + repeats → FRAUD
+-   Clean history + proper docs → LEGIT
+
+
+
+
+FINAL IDEA: Fraud detection = Rule-based signals + Historical patterns +
+AI reasoning
+
+
+
+
+TRUTH ENGINE
+
+Multiple checks → Individual scores → Combined → Final Truth Score
+
+Score ≥ 75 → APPROVE  
+45–75 → REVIEW  
+< 45 → FRAUD  
+
+
+
+HOW FRAUD NETWORK WORKS
+It is a graph-based fraud detection system
+Users + Vehicles + Garages + Claims → Connected → Pattern detection  (HIDDEN CONNECTIONS)
+
+
+
+WHAT IT TRACKS
+ 1. Claimant (User)
+Number of claims
+Risk level
+Connections
+
+
+ 2. Service Entities (Garage / Doctor / Hospital)
+How many claims they handled
+Fraud frequency
+
+
+ 3. Relationships
+User → Garage  
+User → Accident  
+Garage → Multiple suspicious users  
+
+
+ FRAUD PATTERNS DETECTED 
+
+Pattern 1 — Same Garage Fraud
+Many suspicious claims → same garage
+Possible fraud ring
+
+ Pattern 2 — Repeated Connections
+Same user + same accident type + same location
+
+ Pattern 3 — Network Risk
+User connected to already flagged entities
+
+ Even if current claim looks fine → risk increases
+
+ Pattern 4 — Cluster Fraud
+Group of users connected via same garage/agent
+
+ Organized fraud
+
+ WHAT YOUR SCREEN SHOWS
+
+
+Example:
+
+City Care Clinic → Low risk
+Rahul Verma → High risk
+
+ Means:
+
+Person has suspicious history
+But connected entities may not
+ HOW IT HELPS YOUR PROJECT
+
+Truth Engine = individual claim analysis
+Fraud Network = group/network analysis
+
+
+Truth Engine → checks claim itself  
+Fraud Network → checks hidden connections
+
+
+FINAL DECISION LOGIC
+If Truth Score HIGH + Network Clean → APPROVE  
+If Truth Score MEDIUM + Network Risk → INVESTIGATE  
+If Truth Score LOW + Network Risk → FRAUD  
+
+
+The Truth Engine evaluates the legitimacy of a claim using contextual signals such as weather, location, timeline, and behavioral history to generate a truth score. The Fraud Network complements this by analyzing relationships between entities like claimants and service providers to detect organized or repeated fraud patterns. Together, they provide both individual and network-level fraud detection
+
+Component	Role
+Truth Engine	Score the claim
+Fraud Network	Detect hidden fraud patterns
+Together	Smart fraud detection system
+
+
+Frontend
+   ↓
+API Gateway
+   ↓
+Lambda (AgentCore Gateway)
+   ↓
+AgentCore AI Agent
+   ├── Tool 1: lookup_user_claims (S3 / DynamoDB)
+   ├── Tool 2: run_truth_score (Bedrock reasoning)
+   ├── Tool 3: get_vehicle_signals (rules)
+   ├── Tool 4: fraud_network_analysis (relationships)
+   ↓
+Final Verdict + Explanation

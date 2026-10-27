@@ -1,0 +1,97 @@
+======================================================================
+     VEHICLE INSURANCE PLATFORM: VERTICAL ARROW WORKFLOWS
+======================================================================
+
+1. LOGIN & SIGNUP WORKFLOW
+--------------------------
+    User Landing
+         ↓
+    Auth Page (React)
+         ↓
+    Enter Credentials
+         ↓
+    POST to Lambda
+         ↓
+    Query DynamoDB Users
+         ↓
+    Validate Credentials
+         ↓
+    Return User Context
+         ↓
+    Redirect to Global Dashboard
+
+
+2. DASHBOARD TO UPLOAD WORKFLOW
+-------------------------------
+    Global Hub (Select Portal)
+         ↓
+    Module Dashboard (Vehicle/Health)
+         ↓
+    Navigate to "Submit Claim"
+         ↓
+    Complete Document Checklist
+         ↓
+    Checklist Verified (Green)
+         ↓
+    Upload Interface Unlocked
+
+
+3. OCR & DOCUMENT INGESTION
+---------------------------
+    User Selects Document
+         ↓
+    Frontend (Base64 Encoding)
+         ↓
+    POST to OCR Lambda
+         ↓
+    Amazon Textract Processing
+         ↓
+    Original File Saved to S3
+         ↓
+    Extracted JSON Data Returned
+         ↓
+    User Reviews Metadata
+
+
+4. TRUTH ANALYSIS (AI BRAIN)
+----------------------------
+    Trigger Analysis (React)
+         ↓
+    POST to Truth Lambda
+         ↓
+    Lambda Fetches CSV Reality (S3)
+         ↓
+    Inject CSV Data into Prompt
+         ↓
+    Send to Amazon Nova Pro (Bedrock)
+         ↓
+    AI Reasoning & Cross-Reference
+         ↓
+    Assign Truth Score & Flags
+         ↓
+    Final JSON Result to Frontend
+         ↓
+    Render Radar Chart & Reasoning
+
+
+5. CHATBOT PERSISTENCE (IST)
+----------------------------
+    User Asks Question
+         ↓
+    Chatbot Lambda (Python)
+         ↓
+    Load History from DynamoDB (Query)
+         ↓
+    Detect IDs (Regex Check)
+         ↓
+    Fetch Reality Data (S3 CSVs)
+         ↓
+    AI Logic (Bedrock Nova Pro)
+         ↓
+    Generate IST Timestamp Response
+         ↓
+    Save History Row (session_id + timestamp)
+         ↓
+    Update Chat Window UI
+
+======================================================================
